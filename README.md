@@ -10,6 +10,6 @@ In simple words, pull requests are a mechanism for a developer to tell that thei
 
 1. Clone the project.
 2. Create a new branch (In case using cli use `git checkout -b yourbranchname`
-3. Do a change in the file.
-4. Add and commit the changes.
+3. Add a new file with your github username.
+4. Git Add and commit the changes.
 5. On the github go to a branch and create a PR using the button
